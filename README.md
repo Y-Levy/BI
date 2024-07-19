@@ -1,1 +1,1 @@
-# BI
+A case study of analysing YouTube business model. Planned an ERD featuring operations of uploading, saving, and tracking of videos and their comments, and established a suitable database in SQL using DDL and advanced DML commands (triggers, stored procedures, cursors). Designed and constructed a PowerBI dashboard to visualize key preformace indicators of the business process.
